@@ -1,0 +1,38 @@
+/* Laptop Layout: 1200px. */
+@media only screen and (min-width: 1200px) and (max-width: 1500px) { 
+    
+    
+}
+/* Medium Layout: 992px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+    
+}
+/* Tablet & mobile Layout: 768px. */
+@media only screen and (max-width: 991px) { 
+    .single_items_wrapper:nth-child(3) {
+        position: absolute;
+        top: 100%;
+    }
+    
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+    
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+    .restaurant_items {
+        display: inline-block;
+    }
+    
+    
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+    
+}
+
+@media (max-width: 575.98px){
+    
+}
